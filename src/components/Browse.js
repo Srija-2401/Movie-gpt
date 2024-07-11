@@ -1,9 +1,10 @@
 import React from 'react'
+import Header from './Header'
 
-const Browse = () => {
+const Browse = ({isAuthenticated}) => {
   return (
     <div>
-      Browse
+      <Header isAuthenticated={isAuthenticated}/>
     </div>
   )
 }

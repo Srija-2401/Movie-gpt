@@ -10,4 +10,23 @@
 - Movie Suggestions in many rows
 - Netflix gpt 
   - Suggestions
-  -Search Bar
+  - Search Bar
+
+# Process of building the app
+- Create React app
+- Tailwind installation
+- Header
+- Routing
+- Sign In/Sign up form using toggle feature
+- Form Validation
+- useRef
+- Firebase initialization
+- Deployment
+- Create Signup user account
+- Implement signin user api
+- Set up the store of Redux
+- Implemented Sign in,Sign out,Sign up
+- Update profile
+- Navigated after sign in/sign up/sign out
+
+
